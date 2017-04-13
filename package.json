@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "nodebb-plugin-recent-cards@0.3.1",
+        "raw": "nodebb-plugin-ccmtnav@0.3.1",
         "scope": null,
-        "escapedName": "nodebb-plugin-recent-cards",
-        "name": "nodebb-plugin-recent-cards",
+        "escapedName": "nodebb-plugin-ccmtnav",
+        "name": "nodebb-plugin-ccmtnav",
         "rawSpec": "0.3.1",
         "spec": "0.3.1",
         "type": "version"
@@ -14,15 +14,15 @@
     ]
   ],
   "_cnpm_publish_time": 1487535579671,
-  "_from": "nodebb-plugin-recent-cards@0.3.1",
+  "_from": "nodebb-plugin-ccmtnav@0.3.1",
   "_hasShrinkwrap": false,
-  "_id": "nodebb-plugin-recent-cards@0.3.1",
+  "_id": "nodebb-plugin-ccmtnav@0.3.1",
   "_inCache": true,
-  "_location": "/nodebb-plugin-recent-cards",
+  "_location": "/nodebb-plugin-ccmtnav",
   "_nodeVersion": "5.0.0",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/nodebb-plugin-recent-cards-0.3.1.tgz_1487535579450_0.10213382705114782"
+    "tmp": "tmp/nodebb-plugin-ccmtnav-0.3.1.tgz_1487535579450_0.10213382705114782"
   },
   "_npmUser": {
     "name": "psychobunny",
@@ -31,10 +31,10 @@
   "_npmVersion": "3.3.6",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "nodebb-plugin-recent-cards@0.3.1",
+    "raw": "nodebb-plugin-ccmtnav@0.3.1",
     "scope": null,
-    "escapedName": "nodebb-plugin-recent-cards",
-    "name": "nodebb-plugin-recent-cards",
+    "escapedName": "nodebb-plugin-ccmtnav",
+    "name": "nodebb-plugin-ccmtnav",
     "rawSpec": "0.3.1",
     "spec": "0.3.1",
     "type": "version"
@@ -43,17 +43,17 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npm.taobao.org/nodebb-plugin-recent-cards/download/nodebb-plugin-recent-cards-0.3.1.tgz",
+  "_resolved": "https://registry.npm.taobao.org/nodebb-plugin-ccmtnav/download/nodebb-plugin-ccmtnav-0.3.1.tgz",
   "_shasum": "712ad8f1122d7b4945aa5eb916d1bda2153d99dc",
   "_shrinkwrap": null,
-  "_spec": "nodebb-plugin-recent-cards@0.3.1",
+  "_spec": "nodebb-plugin-ccmtnav@0.3.1",
   "_where": "/home/lingxiao/data/web/nodebb_ccmt/node_modules",
   "author": {
     "name": "psychobunny",
     "email": "psycho.bunny@hotmail.com"
   },
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-recent-cards/issues"
+    "url": "https://github.com/psychobunny/nodebb-plugin-ccmtnav/issues"
   },
   "dependencies": {},
   "description": "Add lavender-style cards of recent topics to Persona's category homepage",
@@ -63,10 +63,10 @@
     "shasum": "712ad8f1122d7b4945aa5eb916d1bda2153d99dc",
     "size": 25387,
     "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/nodebb-plugin-recent-cards/download/nodebb-plugin-recent-cards-0.3.1.tgz"
+    "tarball": "http://registry.npm.taobao.org/nodebb-plugin-ccmtnav/download/nodebb-plugin-ccmtnav-0.3.1.tgz"
   },
   "gitHead": "023df76710e3ea17cd0a1e2622cb14a9a4a1a3c9",
-  "homepage": "https://github.com/psychobunny/nodebb-plugin-recent-cards#readme",
+  "homepage": "https://github.com/psychobunny/nodebb-plugin-ccmtnav#readme",
   "keywords": [
     "nodebb",
     "plugin",
@@ -90,7 +90,7 @@
       "email": "tafike@gmail.com"
     }
   ],
-  "name": "nodebb-plugin-recent-cards",
+  "name": "nodebb-plugin-ccmtnav",
   "nbbpm": {
     "compatibility": "^1.4.3"
   },
@@ -99,7 +99,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/psychobunny/nodebb-plugin-recent-cards.git"
+    "url": "git+https://github.com/psychobunny/nodebb-plugin-ccmtnav.git"
   },
   "scripts": {},
   "version": "0.3.1"
