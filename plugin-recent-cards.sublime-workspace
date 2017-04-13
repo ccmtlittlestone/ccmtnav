@@ -83,7 +83,7 @@
 			}
 		},
 		{
-			"file": "static/templates/partials/nodebb-plugin-ccmtnav/header.tpl",
+			"file": "static/templates/partials/nodebb-plugin-recent-cards/header.tpl",
 			"settings":
 			{
 				"buffer_size": 1908,
@@ -131,7 +131,7 @@
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/admin",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/admin/plugins",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/partials",
-		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/partials/nodebb-plugin-ccmtnav",
+		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/partials/nodebb-plugin-recent-cards",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/unslider",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/unslider/unslider",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/templates",
@@ -140,7 +140,7 @@
 	],
 	"file_history":
 	[
-		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/partials/nodebb-plugin-ccmtnav/header.tpl",
+		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/templates/partials/nodebb-plugin-recent-cards/header.tpl",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/style.less",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/static/bxslider/jquery.bxslider.css",
 		"/C/Users/psychobunny/Documents/GitHub/NodeBB/node_modules/nodebb-plugin-ccmtnav/templates/admin/plugins/recent-cards.tpl",
@@ -535,7 +535,7 @@
 				},
 				{
 					"buffer": 7,
-					"file": "static/templates/partials/nodebb-plugin-ccmtnav/header.tpl",
+					"file": "static/templates/partials/nodebb-plugin-recent-cards/header.tpl",
 					"semi_transient": false,
 					"settings":
 					{

@@ -99,7 +99,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/psychobunny/nodebb-plugin-ccmtnav.git"
+    "url": "git+https://github.com/ccmtlittlestone/nodebb-plugin-ccmtnav.git"
   },
   "scripts": {},
   "version": "0.3.1"
