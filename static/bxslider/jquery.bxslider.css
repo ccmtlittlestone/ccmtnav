@@ -33,7 +33,7 @@
 	border:  5px solid transparent;
 	left: -5px;
 	background: none;
-	
+
 	/*fix other elements on the page moving (on Chrome)*/
 	-webkit-transform: translatez(0);
 	-moz-transform: translatez(0);
@@ -103,13 +103,13 @@
 .bx-wrapper .bx-prev {
 	left: -12px;
 	cursor: pointer;
-	background: url(plugins/nodebb-plugin-recent-cards/static/bxslider/images/controls.png) no-repeat 0 -32px;
+	background: url(plugins/nodebb-plugin-ccmtnav/static/bxslider/images/controls.png) no-repeat 0 -32px;
 }
 
 .bx-wrapper .bx-next {
 	right: -10px;
 	cursor: pointer;
-	background: url(plugins/nodebb-plugin-recent-cards/static/bxslider/images/controls.png) no-repeat -43px -32px;
+	background: url(plugins/nodebb-plugin-ccmtnav/static/bxslider/images/controls.png) no-repeat -43px -32px;
 }
 
 .bx-wrapper .bx-prev:hover {
