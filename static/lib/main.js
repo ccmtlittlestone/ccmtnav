@@ -9,6 +9,10 @@ $(document).ready(function(){
 					slideWidth: 292,
 					minSlides: 1,
 					maxSlides: 4,
+					auto: true,
+					autoHover:true,
+					speed:1000,
+					pause:6000,
 					pager: ajaxify.data.recentCards.enableCarouselPagination ? true: false
 				});
 			} else {
