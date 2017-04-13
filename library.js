@@ -30,7 +30,7 @@ plugin.addAdminNavigation = function(header, callback) {
 	header.plugins.push({
 		route: '/plugins/recentcards',
 		icon: 'fa-tint',
-		name: 'Recent Cards'
+		name: 'ccmtnav'
 	});
 
 	callback(null, header);
