@@ -9,6 +9,8 @@ $(document).ready(function(){
 					slideWidth: 292,
 					minSlides: 1,
 					maxSlides: 4,
+					controls: screen_width>415?true:false,
+					pager: screen_width>415?true:false,
 					auto: true,
 					autoHover:true,
 					speed:1000,
