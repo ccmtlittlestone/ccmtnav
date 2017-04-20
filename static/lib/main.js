@@ -14,8 +14,7 @@ $(document).ready(function(){
 					auto: true,
 					autoHover:true,
 					speed:1000,
-					pause:6000,
-					pager: ajaxify.data.recentCards.enableCarouselPagination ? true: false
+					pause:6000
 				});
 			} else {
 				$('.recent-cards').removeClass('carousel-mode');
