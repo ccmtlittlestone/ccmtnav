@@ -38,12 +38,20 @@
 						<input type="text" id="url1" data-key="url1" title="url1" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
+						<label for="opacity">txt1</label>
+						<input type="text" id="txt1" data-key="txt1" title="txt1" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
 						<label for="opacity">pic2</label>
 						<input type="text" id="pic2" data-key="pic2" title="pic2" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">url2</label>
 						<input type="text" id="url2" data-key="url2" title="url2" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
+						<label for="opacity">txt2</label>
+						<input type="text" id="txt2" data-key="txt2" title="txt2" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">pic3</label>
@@ -54,12 +62,20 @@
 						<input type="text" id="url3" data-key="url3" title="url3" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
+						<label for="opacity">txt3</label>
+						<input type="text" id="txt3" data-key="txt3" title="txt3" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
 						<label for="opacity">pic4</label>
 						<input type="text" id="pic4" data-key="pic4" title="pic4" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">url4</label>
 						<input type="text" id="url4" data-key="url4" title="url4" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
+						<label for="opacity">txt4</label>
+						<input type="text" id="txt4" data-key="txt4" title="txt4" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">pic5</label>
@@ -70,12 +86,20 @@
 						<input type="text" id="url5" data-key="url5" title="url5" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
+						<label for="opacity">txt5</label>
+						<input type="text" id="txt5" data-key="txt5" title="txt5" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
 						<label for="opacity">pic6</label>
 						<input type="text" id="pic6" data-key="pic6" title="pic6" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">url6</label>
 						<input type="text" id="url6" data-key="url6" title="url6" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
+						<label for="opacity">txt6</label>
+						<input type="text" id="txt6" data-key="txt6" title="txt6" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">pic7</label>
@@ -86,12 +110,20 @@
 						<input type="text" id="url7" data-key="url7" title="url7" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
+						<label for="opacity">txt7</label>
+						<input type="text" id="txt7" data-key="txt7" title="txt7" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
 						<label for="opacity">pic8</label>
 						<input type="text" id="pic8" data-key="pic8" title="pic8" class="form-control" placeholder="">
 					</div>
 					<div class="form-group">
 						<label for="opacity">url8</label>
 						<input type="text" id="url8" data-key="url8" title="url8" class="form-control" placeholder="">
+					</div>
+					<div class="form-group">
+						<label for="opacity">txt8</label>
+						<input type="text" id="txt8" data-key="txt8" title="txt8" class="form-control" placeholder="">
 					</div>
 					<!-- custom end -->
 
