@@ -11,7 +11,7 @@ $(document).ready(function(){
 					slideWidth: 292,
 					minSlides: 1,
 					maxSlides: 4,
-					infiniteLoop: true,
+					infiniteLoop: screen_width>415?true:false,
 					controls: screen_width>415?true:false,
 					pager: screen_width>415?true:false,
 					autoHover:true,

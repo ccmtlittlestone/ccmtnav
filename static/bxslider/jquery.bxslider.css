@@ -30,10 +30,9 @@
 ===================================*/
 
 .bx-wrapper .bx-viewport {
-	border:  5px solid transparent;
 	left: -5px;
 	background: none;
-	height: 150px !important;
+	height: 140px !important;
 	/*fix other elements on the page moving (on Chrome)*/
 	-webkit-transform: translatez(0);
 	-moz-transform: translatez(0);
